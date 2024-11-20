@@ -8,6 +8,14 @@ function App() {
   return (
     <>
       <h1>Hello word</h1>
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit illum
+        recusandae deleniti laborum dolor nobis delectus dolores ducimus animi
+        ad at minus sunt dolore rerum, officia doloremque tenetur corporis
+        doloribus quae eos magni et nisi sit. Ab nostrum cumque repellendus
+        pariatur doloremque eaque provident fuga nobis voluptatibus delectus,
+        odio ipsam!
+      </p>
     </>
   );
 }
